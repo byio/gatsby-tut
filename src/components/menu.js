@@ -3,7 +3,7 @@ import Link from 'gatsby-link';
 
 const Menu = () => (
   <div style={{
-    background: #f4f4f4,
+    background: '#f4f4f4',
     paddingTop: '10px'
   }}>
     <ul style={{
