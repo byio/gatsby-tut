@@ -1,6 +1,6 @@
 ---
 path: "/post-01"
-date: " 2018-06-16"
+date: " 2018-06-18"
 title: "bayz's first gatsby post"
 author: "bayz"
 ---
